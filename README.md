@@ -1,6 +1,3 @@
-# 📇 Contact Management System
-
-A simple Contact Management System built using **Python**, **Tkinter**, and **SQLite**. This application provides a user-friendly interface to manage contacts including functionality to add, update, and delete entries. It is perfect for beginners to learn GUI programming and database interaction in Python.
 
 <img width="719" height="449" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/25d64164-c2ae-4bcf-a402-492c8b0d75fd" />
 ---<img width="730" height="502" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/7909a348-d272-4070-85f7-876c2e46b763" />
